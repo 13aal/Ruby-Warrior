@@ -1,0 +1,5 @@
+Make the warrior walk to the stairs
+	Does the warrior feel empty space?
+		If so walk
+	Does the warrior feel an object?
+		If so attack
