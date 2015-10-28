@@ -1,0 +1,7 @@
+Set a variable to heal at 15
+	Does the warrior feel empty space and is his health above 15?
+		If so walk
+			If not rest
+		Does the warrior feel something in front of him and is his health above 15?
+			if so attack
+		
