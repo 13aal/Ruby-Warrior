@@ -1,0 +1,13 @@
+Set variable of health to nothing
+	Make variable of health from nothing equal to the health of warrior unless warrior is nothing
+	
+	Does the warrior feel empty space and is his health good?
+		If so walk
+		If his health is 12 or less
+			Make him rest
+		If his health is good and above 12 
+			Make him walk
+		Does the warrior feel something in fron of him and his health is good and above 12?
+			Then attack
+			
+		Set variable to warrior health
