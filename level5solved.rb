@@ -13,7 +13,7 @@ class Player
         warrior.walk!
       end
     else
-      if warrior.feel.captive?
+      if warrior.feel.captive? #Finally realized what I was fucking up on
         warrior.rescue!
       else
         warrior.attack!
