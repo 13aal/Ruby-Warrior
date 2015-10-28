@@ -1,0 +1,15 @@
+Set health variable to nothing
+	reset health variable to warrior health unless warrior health is nothing
+		
+		Does warrior feel empty space and is his health good?
+			If so walk
+		If warrior health is less then 13
+			Make warrior rest
+		Save continous pointless turns with a escape of walking
+		
+		Does the warrior feel a captive in front of him?
+			If so have the warrior rescue the captive
+		If warriors health is good there is no captive and warrior feels an object
+			Make warrior attack
+			
+		Return variable to health
